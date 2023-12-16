@@ -32,5 +32,6 @@
   </picture>
 
 <div align="center"><img src="https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif" /></div>
-https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif
+![](https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif)
 </div>
+![](https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif)
