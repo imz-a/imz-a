@@ -31,6 +31,6 @@
     <img alt="github-snake" src="cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/assets/github-contribution-grid-snake.gif" /></div>
-
+<div align="center"><img src="https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif" /></div>
+https://github.com/Flum-hash/Flum-hash/blob/main/assets/github-contribution-grid-snake.gif
 </div>
