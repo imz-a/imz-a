@@ -32,4 +32,5 @@
   </picture>
 
 </div>
-
+![暗色](https://raw.githubusercontent.com/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![亮色](https://raw.githubusercontent.com/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake.svg#gh-light-mode-only)
