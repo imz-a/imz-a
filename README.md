@@ -32,3 +32,4 @@
   </picture>
 
 </div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/assets/github-contribution-grid-snake.svg" /></div>
