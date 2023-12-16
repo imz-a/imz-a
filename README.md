@@ -27,9 +27,9 @@
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="raw.githubusercontent.com/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Flum-hash/Flum-hash/assets/github-contribution-grid-snake.svg" /></div>
+
