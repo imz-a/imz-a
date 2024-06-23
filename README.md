@@ -16,7 +16,7 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://flum-hash.github.io/blog/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
