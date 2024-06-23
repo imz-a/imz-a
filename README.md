@@ -32,4 +32,4 @@
   </picture>
 
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yiita452)](https://github.com/yiita452/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiita452)]
