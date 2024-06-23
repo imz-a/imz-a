@@ -32,5 +32,4 @@
   </picture>
 
 </div>
-![Yiita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiita452)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiita452)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiita452&count_private=true)
