@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiita452&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
